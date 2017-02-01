@@ -1,0 +1,97 @@
+.input_form {
+  border: 1px solid rgb(189, 199, 216);
+  min-height: 50px;
+  border-radius: 7px;
+}
+
+.whole_body_width {
+  background-color: #E9EBEE;
+  width: 50%;
+}
+
+.fname_width {
+  width: 48%;
+}
+
+.full_width {
+  width: 97%;
+  margin-top: 15px;
+}
+
+:-moz-placeholder {
+  color: #999999;
+  font-size: 18px;
+  padding-left: 10px;
+}
+
+:-ms-placeholder {
+  color: #999999;
+  font-size: 18px;
+  padding-left: 10px;
+}
+
+::-webkit-input-placeholder {
+  color: #999999;
+  font-size: 18px;
+  padding-left: 10px;
+}
+
+::-moz-placeholder {
+  padding-left: 10px;
+  color: #999999;
+  font-size: 18px;
+}
+
+.padding_set {
+  float: left;
+  padding: 10px;
+}
+
+.radio_button_group {
+  margin-top: 20px;
+  clear: both;
+}
+
+.terms {
+  font-family: 'Open Sans', sans-serif;
+  
+  margin-top: 10px;
+}
+
+.submit_button {
+  background-color: #71B05C;
+  color: white;
+  padding: 2% 7%;
+  border: 1px solid #3B6E22;
+  border-radius: 4px;
+}
+
+.footer_title {
+  font-family: 'Open Sans', sans-serif;
+  margin-top: 25px;
+  border-top: 2px solid black;
+  padding-top: 15px;
+}
+
+.birthday_condition a {
+  clear: both;
+  margin-left: 20px;
+}
+
+.sign_up_title{
+  font-family: 'Open Sans', sans-serif;
+  
+}
+
+.birthday{
+  font-family: 'Open Sans', sans-serif;
+}
+
+.radio_button_group{
+  font-family: 'Open Sans', sans-serif;
+  color:black;
+  font-size:20px;
+   
+  
+}
+
